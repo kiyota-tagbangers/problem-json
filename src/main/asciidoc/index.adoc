@@ -1,0 +1,19 @@
+= Problem Json
+
+== problem detail
+
+operation::problem-detail[snippets='curl-request,http-response']
+
+== runtime exception
+
+operation::runtime-exception[snippets='curl-request,http-response']
+
+== items success
+
+operation::items-success[snippets='curl-request,http-response']
+
+== items validation error
+
+operation::items-validation-error-name-min[snippets='curl-request,http-response']
+
+operation::items-validation-error-name-max-and-memo-max[snippets='curl-request,http-response']
